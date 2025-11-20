@@ -1,3 +1,3 @@
 # STA-309-
-Repository for Midterm 2 code and plots/graphics
+plots/graphics
 ![Dashboard](https://raw.githubusercontent.com/AndrewHanrehan/STA-309-/main/dashboard.png)
