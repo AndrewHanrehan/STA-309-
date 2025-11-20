@@ -1,3 +1,3 @@
 # STA-309-
 Repository for Midterm 2 code and plots/graphics
-![Dashboard](C:\Users\ajhan\OneDrive\Documents\dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/AndrewHanrehan/STA-309-Midterm/dashboard.png)
